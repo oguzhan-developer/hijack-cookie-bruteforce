@@ -3,3 +3,5 @@ Hijack CTF'ini çözerken, web sitesinde PHPSESSID karşısında değer olarak u
 Bu listeyi kullanarak cookie brute force saldırısı yapmak için **cookiebrute** aracımı kullandım.
 
 cookiebrute tool'u her bir cookie ile index.php sayfasına get requesti yapıyor, response text'i "welcome admin" yazısını içeriyorsa success case'i dönüyor.
+
+![result](https://github.com/oguzhan-developer/hijack-cookie-bruteforce/blob/main/proof.png?raw=true)
